@@ -12,6 +12,7 @@ The program prints Result: followed by the answer
 ~/h-drive/calculator/run.sh
 then enter 6 * 7 and expect an output of 42.0
 close with ctrl + c
+./check.sh runs 8 tests and should all return successful 
  
 
 
